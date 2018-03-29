@@ -5,11 +5,8 @@ void main()
   int i;
   do
   {
-    printf("My mane is B ");
-    printf("I am user B ");
     printf("What is your name? My name is eiei ");
-    printf("A And what do you do? ");
-
+    printf("This is B changed ");
     scanf("%s", Name);
     do
     {
