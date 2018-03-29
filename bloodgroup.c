@@ -7,6 +7,9 @@ void main()
   {
     printf("My mane is B ");
     printf("I am user B ");
+    printf("What is your name? My name is eiei ");
+    printf("A And what do you do? ");
+
     scanf("%s", Name);
     do
     {
